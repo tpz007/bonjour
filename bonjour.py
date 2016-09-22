@@ -17,5 +17,6 @@ class Solver:
 
 print('Bonjour')
 Solver().demo()
+print('Bye')
 
 
